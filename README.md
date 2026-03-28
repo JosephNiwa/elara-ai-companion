@@ -37,7 +37,7 @@ python3 memory_bridge.py &
 ollama serve &
 # Run Godot scene
 
-What I Learned
+What I learned
 Integrating AI models with external memory systems
 Context injection for better responses
 Structuring multi-layer systems (AI + backend + frontend)
